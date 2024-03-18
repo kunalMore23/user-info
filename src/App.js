@@ -10,7 +10,7 @@ function App() {
       <Navbar></Navbar>
       <Grid xs={12}>
       </Grid>
-      <Grid xs={2} style={{marginLeft : '2rem', marginTop: '1.5rem'}}>
+      <Grid xs={2} style={{marginLeft : '2rem', marginTop: '0.5rem'}}>
         <Sidebar></Sidebar>
       </Grid>
       <Grid xs={9}>
